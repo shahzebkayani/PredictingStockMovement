@@ -1,2 +1,3 @@
 # PredictingStockMovement
 Random Forest and AdaBoost models to predict stock movement
+In this report, bagging and boosting ML techniques are used to predict the stock market. The stock market to be predicted is chosen as the Hang Seng Index (HSI). The Hang Seng Index is a free-float-adjusted market capitalization-weighted index. It is the key indicator that tracks daily changes of the largest corporations and overall market performance on the Hong Kong stock market (Bloomberg, 2022). The aim of this study is to create a tree-based ML model that can learn from past market data and predict the direction of the stock price. Before examining Random Forest and AdaBoost algorithm to carry out the research, problems faced while carrying out such ML projects are analysed. 
